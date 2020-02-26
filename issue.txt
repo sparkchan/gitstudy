@@ -1,3 +1,5 @@
 master
 master test1
 master test2
+issue1 test1
+issue1 test2
